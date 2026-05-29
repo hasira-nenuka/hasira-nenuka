@@ -42,11 +42,11 @@
 <table align="right">
 </td>
 <td width="100%" align="left">
-  <img align="left" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img width="100%" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 </td>
 </table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasira-nenuka&" alt="hasira-nenuka" /></p>
+<p><img width="100%"" src="https://github-readme-streak-stats.herokuapp.com/?user=hasira-nenuka&" alt="hasira-nenuka" /></p>
 
 ## <img src='https://raw.githubusercontent.com/hasira-nenuka/hasira-nenuka/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 

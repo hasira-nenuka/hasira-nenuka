@@ -27,7 +27,7 @@
 - 📄 Know about my experiences [Undergraduate Information technology Student with experience in academic and personal Information technology projects](Undergraduate Information technology Student with experience in academic and personal Information technology projects)
 
 - ⚡ Fun fact **I enjoy learning new technologies by building real-world projects**
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,7 +46,24 @@
 </td>
 </table>
 
-<p><img width="100%"" src="https://github-readme-streak-stats.herokuapp.com/?user=hasira-nenuka&" alt="hasira-nenuka" /></p>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hasira-nenuka&theme=chartreuse-dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hasira-nenuka&theme=chartreuse-dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hasira-nenuka&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+
 
 ## <img src='https://raw.githubusercontent.com/hasira-nenuka/hasira-nenuka/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 
